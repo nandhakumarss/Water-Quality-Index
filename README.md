@@ -14,14 +14,14 @@ In this notebook, Water Quality Index (WQI) and quality status of the water is p
 The data contains water quality parameters of different rivers of India. There are 8 parameters and each parameter is the average values measured over a period of time.
 
 ## CONTENTS
-Setting up the environment
-Importing libraries
-Uploading the data
-Data Cleaning
-EDA
-Feature Engineering
-Model Creation
-Predictions
+- Setting up the environment
+- Importing libraries
+- Uploading the data
+- Data Cleaning
+- EDA
+- Feature Engineering
+- Model Creation
+- Predictions
 
 ## INFRENCE
 The Water Quality Index is calculated by aggregating the quality rating with the weight linearly,
